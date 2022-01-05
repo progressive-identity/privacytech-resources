@@ -1,7 +1,7 @@
-# Privacy Engineering and Privacy Techresources
+# Privacy Engineering and Privacy Tech resources
 A list of resources to know more about privacy tech and privacy engineering practice
 
-## Top Privacy engineering book and guides
+## Top Privacy Engineering book and guides
 
 - [Privacy Engineering: A Data Flow and Ontological Approach, by Ian Oliver](https://www.amazon.fr/Privacy-Engineering-Dataflow-Ontological-Approach/dp/1497569710)
 - [The Architecture of Privacy: On Engineering Technologies that Can Deliver Trustworthy Safeguards](https://www.amazon.com/Architecture-Privacy-Engineering-Technologies-Trustworthy-ebook/dp/B014LPOXU2)
@@ -28,7 +28,7 @@ A list of resources to know more about privacy tech and privacy engineering prac
 - [Privacy XFN (by Transcend)](https://transcend.io/privacyxfn/)
 - [Privacy Tech France](https://www.privacytech.fr/)
 
-## Top Privacyregulations info sources
+## Top Privacy Regulations info sources
 
 - [European Data Protection Board](https://edpb.europa.eu/news)
 - [GDPRhub (by NOYB)](https://gdprhub.eu/index.php)
@@ -37,13 +37,13 @@ A list of resources to know more about privacy tech and privacy engineering prac
 - [LexisNexis GDPR enforcement tracker](https://www.lexisnexis.co.uk/research-and-reports/gdpr-compliance-tracker.html)
 - [GDPR Enforcement tracker by (CMSLaw)](https://www.enforcementtracker.com/?insights)
 
-## Top Privacy tech stack landscapes
+## Top Privacy Tech stack landscapes
 
 - [IAPP Privacy Tech Vendor Report](https://iapp.org/resources/article/privacy-tech-vendor-report/)
 - [Rise of Privacy Tech Database](https://www.riseofprivacytech.com/troptprivacytechdatabase/)
 - [Bessemer Ventures Privacy Landscape](https://www.bvp.com/atlas/how-data-privacy-engineering-will-prevent-future-data-oil-spills)
 - [Mixhael Tefula  Privacy tech lanndscape (Ada Ventures)](https://michaeltefula.medium.com/the-evolution-of-privacy-tech-611dc3f1a79f)
-- [Clement Vouillon B2B Privacy Tech Landcapse (IDInvest)(https://blog.memohub.io/b2b-privacy-tech-landscape/)
+- [Clement Vouillon B2B Privacy Tech Landcapse:(IDInvest)](https://blog.memohub.io/b2b-privacy-tech-landscape/)
 
 ## Top Privacy tech reports 
 
