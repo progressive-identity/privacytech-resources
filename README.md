@@ -15,7 +15,7 @@ A list of resources to know more about privacy tech and privacy engineering prac
 
 - [Future of Privacy forum Newsletter](https://fpf.org/subscribe/)
 - [The Rise of Privacy Tech Newsletter](https://www.riseofprivacytech.com)
-- [Privacy Engineering newsletter (by alias.dev)](https://www.alias.dev/)  
+- [Privacy Engineering newsletter (by alias.dev)](https://www.alias.dev/pages/alias-privacy-newsletter/)  
 - [Privacy.dev (by Ethyca)](https://ethyca.com/)
 - [Mydata.org Newsletter](https://mydata.org/global-newsletter/)
 - [None of Your Business Newsletter : GDPR Today!](https://gdprhub.eu/index.php?title=GDPRtoday)
