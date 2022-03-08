@@ -79,6 +79,8 @@ https://www.alias.dev/pages/privacy-events
 		
 - [Data Management Israel](https://www.meetup.com/fr-FR/Data-Management-Israel/)
 
-## Top Privacy Engineering Slack groups
+## Top Privacy Engineering Slack / Discord groups
+
+- [Developers and Privacy](https://discord.gg/qCfjFeAdH9)
 
 
