@@ -39,6 +39,7 @@ A list of resources to know more about privacy tech and privacy engineering prac
 
 ## Top Privacy Tech stack landscapes
 
+- [Privacy Tech Landscape](http://privacylandscape.platformable.com/)
 - [IAPP Privacy Tech Vendor Report](https://iapp.org/resources/article/privacy-tech-vendor-report/)
 - [Rise of Privacy Tech Database](https://www.riseofprivacytech.com/troptprivacytechdatabase/)
 - [Bessemer Ventures Privacy Landscape](https://www.bvp.com/atlas/how-data-privacy-engineering-will-prevent-future-data-oil-spills)
