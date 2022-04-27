@@ -22,12 +22,15 @@ A list of resources to know more about privacy tech and privacy engineering prac
 - [Privacy issues Newsletter](https://mailchi.mp/7693b1f17c93/tlpd)
 - [SpreadPrivacy newsletter (by DuckDuckGo)](https://spreadprivacy.com/tag/privacy-newsletter/)
 - [Privacy Insider Newsletter (by Osano)](https://www.osano.com/newsletter/privacy-insider-newsletter-2021-2-2021)
-- [Tech Privacy Legal Lab newsletter](https://techprivacylegallab.org/newsletter/)
 - [Privacy Project (by New York Times)](https://www.nytimes.com/newsletters/privacy-project)
 - [Privacy Please! (by Startpage)](https://www.startpage.com/privacy-please/)
 - [Privacy XFN (by Transcend)](https://transcend.io/privacyxfn/)
-- [Privacy Tech France](https://www.privacytech.fr/)
 - [IAPP Newsletter](https://iapp.org/news/)
+- [Locke Lord Law Firm - Privacy and Cybersecurity Newsletter](https://www.lockelord.com/newsandevents/publications/2022/01/privacy-cybersecurity-newsletter)
+- [Privacy Desk Newsletter](https://privacydesk.in/publications/newsletter/)
+- [DataGuidance Newsletter](https://www.dataguidance.com/jurisdiction/latin-america)
+- [DPO Newsletter](https://www.dataguidance.com/jurisdiction/latin-america)
+- [Association Française des Correspondants à la Protection des données à caractère personnel - AFCDP Newsletter](https://afcdp.net/newsletter/)
 
 ## Top Privacy Regulations info sources
 
@@ -57,7 +60,19 @@ A list of resources to know more about privacy tech and privacy engineering prac
 
 ## Top Privacy tech event and privacy conference list
 
-https://www.alias.dev/pages/privacy-events
+- https://www.alias.dev/pages/privacy-events
+- https://conferenceindex.org/conferences/privacy
+- [MoveData Conference](https://movedata.airbyte.com/)
+- [BigData & AI by Corp](https://www.bigdataparis.com/)
+- [Future of Privacy Conference](https://fpf.org/fpf-event/2022-conference-on-privacy-engineering-practice-and-respect-pepr-22/)
+- [Printemps des DPOs](https://www.printemps-des-dpo.com/)
+- [Université des DPOs - AFCDP](https://afcdp.net/universite-afcdp-dpo/)
+- [Congrès Européen des Data Protections Officers](https://udpo.eu/2022/02/09/5eme-congres-de-ludpo-les-18-19-mai-2022-paris/)
+- [Privacy Conference](https://www.privacy-conference.com/)
+- [Privacy Symposium](https://privacysymposium.org/)
+- [PrivSec Global](https://www.grcworldforums.com/privsec/privsec-global)
+- [Annual Institute on Privacy and Cybersecurity Law](https://www.pli.edu/programs/institute-on-privacy-and-data-security-law?t=live&p=331818)
+- [DPO Circle](https://dpo-breweryofideas.be/)
 
 ## Top Privacy tech meetups
 
