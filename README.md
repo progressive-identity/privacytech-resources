@@ -27,6 +27,7 @@ A list of resources to know more about privacy tech and privacy engineering prac
 - [Privacy Please! (by Startpage)](https://www.startpage.com/privacy-please/)
 - [Privacy XFN (by Transcend)](https://transcend.io/privacyxfn/)
 - [Privacy Tech France](https://www.privacytech.fr/)
+- [IAPP Newsletter](https://iapp.org/news/)
 
 ## Top Privacy Regulations info sources
 
