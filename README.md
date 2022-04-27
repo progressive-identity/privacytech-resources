@@ -62,6 +62,8 @@ A list of resources to know more about privacy tech and privacy engineering prac
 
 - https://www.alias.dev/pages/privacy-events
 - https://conferenceindex.org/conferences/privacy
+- https://forum-europe.com/events/Data+Protection+and+Privacy
+- https://startupstash.com/data-engineering-conferences/
 - [MoveData Conference](https://movedata.airbyte.com/)
 - [BigData & AI by Corp](https://www.bigdataparis.com/)
 - [Future of Privacy Conference](https://fpf.org/fpf-event/2022-conference-on-privacy-engineering-practice-and-respect-pepr-22/)
@@ -73,6 +75,13 @@ A list of resources to know more about privacy tech and privacy engineering prac
 - [PrivSec Global](https://www.grcworldforums.com/privsec/privsec-global)
 - [Annual Institute on Privacy and Cybersecurity Law](https://www.pli.edu/programs/institute-on-privacy-and-data-security-law?t=live&p=331818)
 - [DPO Circle](https://dpo-breweryofideas.be/)
+- [Security Forum](https://securityforum.pro/)
+- [Data Protection and Privacy Conference](https://dataprotection-conference.com/)
+- [DataPrivacy](https://dataprivacy-conference.com/)
+- [International Data Transfers & Compliance Summit](https://worlddatacompliance.com/)
+- [Data Protection Compliance Conference](https://www.pdpconferences.com/data-protection-conference)
+- [Open Data Science Conference](https://odsc.com/apac/data-engineering/)
+- [Enigma Conference](https://www.usenix.org/enigma)
 
 ## Top Privacy tech meetups
 
@@ -99,5 +108,19 @@ A list of resources to know more about privacy tech and privacy engineering prac
 ## Top Privacy Engineering Slack / Discord groups
 
 - [Developers and Privacy](https://discord.gg/qCfjFeAdH9)
+- [Fides Community](https://fidescommunity.slack.com/)
+- [Ethyca](https://discord.com/invite/6bKp5qVnSR)
+- [Global Privacy Assembly](https://globalprivacyassembly.org/participation-in-the-assembly/)
+- [GRC World Forum](https://www.grcworldforums.com/)
+- [Forum on Cyber Resilience](https://www.nationalacademies.org/our-work/forum-on-cyber-resilience#sectionProjectScope)
+- [Future of Privacy Forum](https://fpf.org/)
+- [European Data Protection Forum (EDPF) - The Best Networking Group for Privacy & Data Protection Pros](https://www.linkedin.com/groups/944557/)
 
+## Top Privacy related podcasts and other resources
 
+- [Compliance Podcast Network](https://www.ensurety.co.uk/podcasts/)
+- [GDPR Now!](https://gdprnow.fireside.fm/episodes)
+- [The Fit4Privacy Podcast](https://anchor.fm/fit4privacy)
+- [IAPP Podcast](https://iapp.org/news/privacy-advisor-podcast)
+- [GRC WorldForum Podcast](https://www.grcworldforums.com/library/podcasts)
+- [That Privacy Show](https://www.twitch.tv/thatprivacyshow)
