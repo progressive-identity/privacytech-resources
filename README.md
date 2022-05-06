@@ -60,10 +60,6 @@ A list of resources to know more about privacy tech and privacy engineering prac
 
 ## Top Privacy tech event and privacy conference list
 
-- https://www.alias.dev/pages/privacy-events
-- https://conferenceindex.org/conferences/privacy
-- https://forum-europe.com/events/Data+Protection+and+Privacy
-- https://startupstash.com/data-engineering-conferences/
 - [MoveData Conference](https://movedata.airbyte.com/)
 - [BigData & AI by Corp](https://www.bigdataparis.com/)
 - [Future of Privacy Conference](https://fpf.org/fpf-event/2022-conference-on-privacy-engineering-practice-and-respect-pepr-22/)
@@ -82,6 +78,10 @@ A list of resources to know more about privacy tech and privacy engineering prac
 - [Data Protection Compliance Conference](https://www.pdpconferences.com/data-protection-conference)
 - [Open Data Science Conference](https://odsc.com/apac/data-engineering/)
 - [Enigma Conference](https://www.usenix.org/enigma)
+- [Alias Privacy Events List](https://www.alias.dev/pages/privacy-events)
+- [Conference Index Privacy Events List](https://conferenceindex.org/conferences/privacy)
+- [ForumEurope Privacy Events List](https://forum-europe.com/events/Data+Protection+and+Privacy)
+- [Startup Stash Privacy Engineering Events](https://startupstash.com/data-engineering-conferences/)
 
 ## Top Privacy tech meetups
 
