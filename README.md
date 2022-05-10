@@ -105,7 +105,7 @@ A list of resources to know more about privacy tech and privacy engineering prac
 		
 - [Data Management Israel](https://www.meetup.com/fr-FR/Data-Management-Israel/)
 
-## Top Privacy Engineering Slack / Discord groups
+## Top Privacy Engineering Slack / Discord / LinkedIn groups
 
 - [Developers and Privacy](https://discord.gg/qCfjFeAdH9)
 - [Fides Community](https://fidescommunity.slack.com/)
@@ -115,6 +115,7 @@ A list of resources to know more about privacy tech and privacy engineering prac
 - [Forum on Cyber Resilience](https://www.nationalacademies.org/our-work/forum-on-cyber-resilience#sectionProjectScope)
 - [Future of Privacy Forum](https://fpf.org/)
 - [European Data Protection Forum (EDPF) - The Best Networking Group for Privacy & Data Protection Pros](https://www.linkedin.com/groups/944557/)
+- [All About the Data Community](https://discord.gg/6NkXdjTa)
 
 ## Top Privacy related podcasts and other resources
 
