@@ -43,19 +43,19 @@ A list of resources to know more about privacy tech and privacy engineering prac
 
 ## Top Privacy Tech stack landscapes
 
-- [Privacy Tech Landscape](http://privacylandscape.platformable.com/)
-- [IAPP Privacy Tech Vendor Report](https://iapp.org/resources/article/privacy-tech-vendor-report/)
-- [Rise of Privacy Tech Database](https://www.riseofprivacytech.com/troptprivacytechdatabase/)
-- [Bessemer Ventures Privacy Landscape](https://www.bvp.com/atlas/how-data-privacy-engineering-will-prevent-future-data-oil-spills)
-- [Mixhael Tefula  Privacy tech lanndscape (Ada Ventures)](https://michaeltefula.medium.com/the-evolution-of-privacy-tech-611dc3f1a79f)
-- [Clement Vouillon B2B Privacy Tech Landcapse:(IDInvest)](https://blog.memohub.io/b2b-privacy-tech-landscape/)
+- [Privacy Tech Landscape (by alias.dev)](http://privacylandscape.platformable.com/)
+- [IAPP Privacy Tech Vendor Report (by IAPP)](https://iapp.org/resources/article/privacy-tech-vendor-report/)
+- [The Rise of Privacy Tech Database (by TROPT)](https://www.riseofprivacytech.com/troptprivacytechdatabase/)
+- [Bessemer Ventures Privacy Landscape (By Bessemer Ventures)](https://www.bvp.com/atlas/how-data-privacy-engineering-will-prevent-future-data-oil-spills)
+- [Mixhael Tefula  Privacy tech lanndscape (by Ada Ventures)](https://michaeltefula.medium.com/the-evolution-of-privacy-tech-611dc3f1a79f)
+- [Clement Vouillon B2B Privacy Tech Landcapse:( by IDInvest)](https://blog.memohub.io/b2b-privacy-tech-landscape/)
 
 ## Top Privacy tech reports 
 
 - [Portability : The forgotten right of GDPR ( (by alias.dev)](https://www.alias.dev/pages/report)
 - [Gartner report about Data Subject Access Requests/Subject Rigths Requests](https://www.gartner.com/doc/reprints?id=1-2809A8KC&ct=211110&st=sb&li_fat_id=e49c33b2-dcd5-4057-9aef-085e919d39ae)
 - [Forrester Privacy Management Report Q4 2021](https://reprints2.forrester.com/#/assets/2/2204/RES176607/report)
-- [Defining the Privacy Tech Landscape  (by ROPT)](https://www.riseofprivacytech.com/wp-content/uploads/2021/11/TROPT-Defining-the-Privacy-Tech-Landscape-2021-v1.0-1.pdf)
+- [Defining the Privacy Tech Landscape  (by TROPT)](https://www.riseofprivacytech.com/wp-content/uploads/2021/11/TROPT-Defining-the-Privacy-Tech-Landscape-2021-v1.0-1.pdf)
 - [The state of CCPA (by DataGrail)](https://www.datagrail.io/wp-content/uploads/2021/03/DataGrails-CCPA-Trends-2021-Report-1.pdf)
 
 ## Top Privacy tech event and privacy conference list
@@ -124,6 +124,7 @@ A list of resources to know more about privacy tech and privacy engineering prac
 
 ## Top Privacy related podcasts and other resources
 
+- [Shifting Left Privacy podcast](https://shiftingprivacyleft.com/)
 - [Compliance Podcast Network](https://www.ensurety.co.uk/podcasts/)
 - [GDPR Now!](https://gdprnow.fireside.fm/episodes)
 - [The Fit4Privacy Podcast](https://anchor.fm/fit4privacy)
