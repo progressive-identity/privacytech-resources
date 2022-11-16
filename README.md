@@ -60,11 +60,11 @@ A list of resources to know more about privacy tech and privacy engineering prac
 
 ## Top Privacy tech event and privacy conference list
 
+- [IAPP Global Privacy Summit](https://iapp.org/conference/global-privacy-summit/)
+- [IAPP Europe Europe Data Protection Congress](https://iapp.org/conference/iapp-europe-data-protection-congress/)
 - [MoveData Conference](https://movedata.airbyte.com/)
 - [BigData & AI by Corp](https://www.bigdataparis.com/)
-- [Future of Privacy Conference](https://fpf.org/fpf-event/2022-conference-on-privacy-engineering-practice-and-respect-pepr-22/)
-- [Printemps des DPOs](https://www.printemps-des-dpo.com/)
-- [Université des DPOs - AFCDP](https://afcdp.net/universite-afcdp-dpo/)
+- [FPF : Future of Privacy Conference](https://fpf.org/fpf-event/2022-conference-on-privacy-engineering-practice-and-respect-pepr-22/)
 - [Congrès Européen des Data Protections Officers](https://udpo.eu/2022/02/09/5eme-congres-de-ludpo-les-18-19-mai-2022-paris/)
 - [Privacy Conference](https://www.privacy-conference.com/)
 - [Privacy Symposium](https://privacysymposium.org/)
@@ -78,6 +78,11 @@ A list of resources to know more about privacy tech and privacy engineering prac
 - [Data Protection Compliance Conference](https://www.pdpconferences.com/data-protection-conference)
 - [Open Data Science Conference](https://odsc.com/apac/data-engineering/)
 - [Enigma Conference](https://www.usenix.org/enigma)
+- [Printemps des DPOs](https://www.printemps-des-dpo.com/)
+- [Université des DPOs - AFCDP](https://afcdp.net/universite-afcdp-dpo/)
+
+### Privacy tech event lists
+
 - [Alias Privacy Events List](https://www.alias.dev/pages/privacy-events)
 - [Conference Index Privacy Events List](https://conferenceindex.org/conferences/privacy)
 - [ForumEurope Privacy Events List](https://forum-europe.com/events/Data+Protection+and+Privacy)
